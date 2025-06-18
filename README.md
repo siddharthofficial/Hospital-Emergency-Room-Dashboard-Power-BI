@@ -25,7 +25,8 @@ The dashboard focuses on **hospital ER operations**, highlighting:
 ## 📁 Files Included
 
 - `Hospital.pbix` – Power BI file containing all visualizations and data model.
-- `assets/` – Screenshots of the dashboard UI.
+-  Screenshots of the dashboard UI.
+-  Images 
 - `README.md` – This file.
 
 ---
@@ -47,7 +48,7 @@ The dashboard focuses on **hospital ER operations**, highlighting:
 
 - Duration: **April 2023 – October 2024**
 - Records: **9,216 unique patient entries**
-- Source: `dataset/`
+- Source: `Hospital ER_DATA.csv`
 
 Columns include:
   - `Patient ID`, `Name`, `Gender`, `Age`
@@ -82,16 +83,16 @@ Columns include:
 ## 📷 Preview
 
 ### Monthly View  
-![Monthly View](assets/monthly-view.png)
+![Monthly View](monthly-view.png)
 
 ### Consolidated View  
-![Consolidated View](assets/consolidated-view.png)
+![Consolidated View](consolidated-view.png)
 
 ### Patient Details  
-![Patient Details](assets/patient-details.png)
+![Patient Details](patient-details.png)
 
 ### Key Takeaways  
-![Key Takeaways](assets/key-takeaways.png)
+![Key Takeaways](key-takeaways.png)
 
 ---
 
